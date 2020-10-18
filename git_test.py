@@ -6,6 +6,7 @@ Copyright 2012 Allen B. Downey.
 Distributed under the GNU General Public License at gnu.org/licenses/gpl.html.
 """
 
+""" this is a test of a file on github"""
 
 class Point(object):
     """Represents a point in 2-D space."""
