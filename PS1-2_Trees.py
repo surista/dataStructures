@@ -7,9 +7,11 @@ sys.setrecursionlimit(10**7) # max depth of recursion
 threading.stack_size(2**27)  # new thread will get stack of such size
 
 def compute_height(n, parents):
+    # create array for nodes
     nodes = [[] for i in range(n)]
     root = None
 
+    # get labels for each node. -1 is root
     for child_index in range(n):
         parent_index = parents[child_index]
         if parent_index == -1:
@@ -26,12 +28,11 @@ def compute_height(n, parents):
         height += 1
         while node_count > 0:
             node = queue.pop(0)
-            print("Node popped:",node)
-            print("nodes[node]:", nodes[node])
+
             if nodes[node]:
                 for x in nodes[node]:
                     queue.append(x)
-                    print('queue:', queue)
+
             node_count -= 1
     return height
 
