@@ -4,6 +4,7 @@
     <list default="true" id="ba7a8251-2c64-4073-999f-f1e9f877ac47" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PS1-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PS1-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PS1-2_Trees.py" beforeDir="false" afterPath="$PROJECT_DIR$/PS1-2_Trees.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,9 +25,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.PS1-1">
+  <component name="RunManager" selected="Python.PS1-2_Trees">
     <configuration name="PS1-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dataStructures" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -41,6 +43,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PS1-1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PS1-2_Trees" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dataStructures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PS1-2_Trees.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,8 +95,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="scratch_19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dataStructures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.PS1-2_Trees" />
+        <item itemvalue="Python.scratch_19" />
         <item itemvalue="Python.PS1-1" />
         <item itemvalue="Python.scratch_18" />
       </list>
@@ -86,7 +134,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603094097320</updated>
-      <workItem from="1603094098361" duration="3161000" />
+      <workItem from="1603094098361" duration="7161000" />
     </task>
     <servers />
   </component>
@@ -94,29 +142,31 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="3710" height="621" key="GridCell.Tab.0.bottom" timestamp="1603096058087">
+    <state width="3710" height="621" key="GridCell.Tab.0.bottom" timestamp="1603104569253">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
-    <state width="3710" height="621" key="GridCell.Tab.0.bottom/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603096058087" />
-    <state width="3710" height="621" key="GridCell.Tab.0.center" timestamp="1603096058087">
+    <state width="3710" height="621" key="GridCell.Tab.0.bottom/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603104569253" />
+    <state width="3710" height="621" key="GridCell.Tab.0.center" timestamp="1603104569253">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
-    <state width="3710" height="621" key="GridCell.Tab.0.center/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603096058087" />
-    <state width="3710" height="621" key="GridCell.Tab.0.left" timestamp="1603096058087">
+    <state width="3710" height="621" key="GridCell.Tab.0.center/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603104569253" />
+    <state width="3710" height="621" key="GridCell.Tab.0.left" timestamp="1603104569253">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
-    <state width="3710" height="621" key="GridCell.Tab.0.left/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603096058087" />
-    <state width="3710" height="621" key="GridCell.Tab.0.right" timestamp="1603096058087">
+    <state width="3710" height="621" key="GridCell.Tab.0.left/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603104569253" />
+    <state width="3710" height="621" key="GridCell.Tab.0.right" timestamp="1603104569253">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
-    <state width="3710" height="621" key="GridCell.Tab.0.right/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603096058087" />
+    <state width="3710" height="621" key="GridCell.Tab.0.right/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603104569253" />
     <state x="5142" y="650" width="1297" height="893" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603094851683">
       <screen x="3840" y="0" width="3840" height="2160" />
     </state>
     <state x="5142" y="650" width="1297" height="893" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/3840.0.3840.2160/0.27.3840.2133@3840.0.3840.2160" timestamp="1603094851683" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/dataStructures$PS1_1.coverage" NAME="PS1-1 Coverage Results" MODIFIED="1603095121398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dataStructures$PS1_2_Trees.coverage" NAME="PS1-2_Trees Coverage Results" MODIFIED="1603104569249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dataStructures$PS1_1.coverage" NAME="PS1-1 Coverage Results" MODIFIED="1603098493178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/dataStructures$scratch_19.coverage" NAME="scratch_19 Coverage Results" MODIFIED="1603099768589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/dataStructures$scratch_18.coverage" NAME="scratch_18 Coverage Results" MODIFIED="1603096058080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </project>

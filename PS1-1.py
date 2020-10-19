@@ -41,6 +41,7 @@ def find_mismatch(text):
             # Check top of stack.
             for j in range(len(opening_brackets_stack) - 1, -1, -1):
                 # confirm that top of stack is opening bracket
+                # note that top of stack is -1 index of list
                 if opening_brackets_stack[j][1] in "([{":
                     # confirm it's the correct opening breacket
                     if are_matching(opening_brackets_stack[j][1], next):
