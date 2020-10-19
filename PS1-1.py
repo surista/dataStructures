@@ -27,7 +27,7 @@ def find_mismatch(text):
     opening_brackets_stack = []
 
     # if opening bracket, push to top of stack
-    # we use named tuples to track the position and bracket
+    # we use enumerate to track element and index
 
     for i, next in enumerate(text):
         if next in "([{":
