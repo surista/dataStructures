@@ -19,7 +19,9 @@ def compute_height(n, parents):
         else:
             nodes[parent_index] += [child_index]
 
+
     queue, height = [], 0
+    # add root to queue
     queue += [root]
     while True:
         node_count = len(queue)
@@ -32,8 +34,8 @@ def compute_height(n, parents):
             if nodes[node]:
                 for x in nodes[node]:
                     queue.append(x)
-
             node_count -= 1
+
     return height
 
 def main():
